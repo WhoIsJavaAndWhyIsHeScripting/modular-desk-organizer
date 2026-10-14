@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 1.43h | 1 |
+| Week 2 | Tier 1 | 0.78h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-13 – Today was a shorter work session than I hoped, but I did get most of the Starbie case done!
 
-**1.43h**
+**0.78h**
 
 Today was a shorter work session than I hoped, but I did get most of the Starbie case done!
 
