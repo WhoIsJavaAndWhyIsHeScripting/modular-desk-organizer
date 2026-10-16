@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 2.11h | 2 |
+| Week 2 | Tier 1 | 2.36h | 2 |
 
 ## Contents
 
 1. [2026-10-13 – Today was a shorter work session than I hoped, but I did get most of the Starbie case done!](#2026-10-13-today-was-a-shorter-work-session-than-i-hoped-but)
-2. [2026-10-15 – Work session](#2026-10-15-work-session)
+2. [2026-10-15 – Today I made a lot of progress. I finished the starbie case, made the mouse case and made the crochet supplies drawer thingy.](#2026-10-15-today-i-made-a-lot-of-progress-i-finished-the-sta)
 
 ## Design
 
@@ -39,8 +39,29 @@ This was my stopping point for the day. Tomorrow I'm going to add some tabs to k
 
 [Timelapse](https://lookout.hackclub.com/api/media/ec737397-dab6-4dca-a8ca-6a2d4c5383e5/video.mp4)
 
-### 2026-10-15 – Work session
+### 2026-10-15 – Today I made a lot of progress. I finished the starbie case, made the mouse case and made the crochet supplies drawer thingy.
 
-**1.33h**
+**1.58h**
+
+Today I made a lot of progress. I finished the starbie case, made the mouse case and made the crochet supplies drawer thingy.
+
+I started off by adding tabs to my starbie case to hold it together. I also split it in half so I can pop the halves together after it's printed and use glue to get the PCB real snug.
+
+![Screenshot 2026-10-15 204729](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sE7vZfeaqmfwXllHYiqPgB7QRPGwMqyP/b43f4e61ff6a68ab9398ceff1b1258f9173f537bda248486c828df6c9ea3f515.png)
+
+Then I made the mouse case. It's a pretty simple design that I may or may not have stolen the idea for from my friend: the lid is kinda like a cork, you do a close fit so it takes a bit of effort to slide it off. It also has a key ring so I can attach my starbie!
+
+![Screenshot 2026-10-15 204628](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sE7vZfeaqmfwXllHYiqPgB7QRPGwMqyP/308d8437d1d623c1b38508682d9922a82f11c6ca31a89cf21e7f5c6ed24ad689.png)
+
+Finally, I made the drawer for my crochet supplies. The big compartment is for my hooks and scissors, the smaller compartment is for my measuring tape and the mini compartment is for my stitch markers! I didn't do any tracks for the drawer for the sake of simplicity, but I might end up adding them later if I have extra time.
+
+![Screenshot 2026-10-15 204655](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sE7vZfeaqmfwXllHYiqPgB7QRPGwMqyP/a1e2296ed75d61c5c1e242167188cfc4b5c81431e37bb9a5d507d735c0022aed.png)
+
+The drawer case is going to have slots for the modular aspect: each piece is going to have its place to slide on or off!
+
+![Screenshot 2026-10-15 205326](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sE7vZfeaqmfwXllHYiqPgB7QRPGwMqyP/abeef00ae6b02fa9d0545ded78694c70396c65170b3546ba5c9bd133218d2160.png)
+^The slots for my mouse case. You can find matching ones above on the mouse case image.
+
+Tomorrow it's time for my pencil/planner/sticky note holder!!
 
 [Timelapse](https://lookout.hackclub.com/api/media/511c57ef-3929-40bd-9b8d-fc4f36aec6a8/video.mp4)
